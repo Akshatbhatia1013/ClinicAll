@@ -1,4 +1,4 @@
-###ClinicAll 
+### ClinicAll 
 
 Our project is a web-based platform designed to connect patients with clinical trials, providing them with an opportunity to access potentially life-saving treatments and contributing to the advancement of medical research. This platform serves as a comprehensive database and dashboard, enabling patients suffering from various diseases, who face financial constraints, to explore and enroll in relevant clinical trials happening near their location.
 
